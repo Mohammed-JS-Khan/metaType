@@ -20,11 +20,11 @@ A
 
 *** Normal Typing:
 
-[[file:howto.gif]]
+[[file:images/howto.gif]]
 
 *** Paste from clipboard:
 
-[[file:howto2.gif]]
+[[file:images/howto2.gif]]
 
 ** How to install:
 
