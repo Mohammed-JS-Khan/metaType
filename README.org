@@ -1,13 +1,15 @@
-* MetaType
-  Chrome plugin that processes normal sentences into expanded text going rightwards and downwards.
+* metaType
+  A Chrome plugin that processes normal sentences into expanded text going rightwards and downwards.
 
-** E.g:
+** Example:
+
+   If we process the following input using the extension:
 
 #+BEGIN_SRC
 META
 #+END_SRC
 
-   Becomes:
+   It becomes:
 
 #+BEGIN_SRC
 M E T A
@@ -15,4 +17,24 @@ E
 T
 A
 #+END_SRC
+
+** How to install:
+
+   1. #+BEGIN_SRC git clone #+END_SRC this repository into a directory.
+   2. Launch Chrome.
+   3. Type #+BEGIN_SRC chrome://extensions/ #+END_SRC into the awesome bar.
+   4. Check the #+BEGIN_SRC Developer mode #+END_SRC checkbox on the top right.
+   5. Click #+BEGIN_SRC Load unpacked extension... #+END_SRC.
+   6. Select the cloned directory and click #+BEGIN_SRC OK # +END_SRC.
+   7. Check the #+BEGIN_SRC Allow in incognito #+END_SRC checkbox for metaType if you're into that.
+   8. Scroll to the bottom and click #+BEGIN_SRC Keyboard shortcuts #+END_SRC.
+   9. Set a shortcut for #+BEGIN_SRC Activate the extension #+END_SRC under #+BEGIN_SRC metaType #+END_SRC (I use #+BEGIN_SRC Ctrl + Shift + Y #+END_SRC ) and click #+BEGIN_SRC OK #+END_SRC.
+   10. Enjoy B)
+
+** How to metaType:
+
+   1. Press your shortcut key combination (for me it is #+BEGIN_SRC Ctrl + Shift + Y #+END_SRC ).
+   2. Type or paste any text that you want to meta-ize and the press #+BEGIN_SRC Enter #+END_SRC .
+   3. Hit #+BEGIN_SRC Ctrl + v #+END_SRC into any textfield.
+   4. Enjoy B)
 
