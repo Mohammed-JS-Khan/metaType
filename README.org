@@ -18,6 +18,14 @@ T
 A
 #+END_SRC
 
+*** Normal Typing:
+
+[[file:howto.gif][This is a normal example of using metaType by simply typing.]]
+
+*** Paste from clipboard:
+
+[[file:howto2.gif][This is an example of how to use metaType by pasting from the clipboard.]]
+
 ** How to install:
 
    1) =git clone= this repository into a directory.
@@ -37,4 +45,3 @@ A
    2) Type or paste any text that you want to meta-ize and then press =Enter= .
    3) Hit =Ctrl + v= into any textfield.
    4) Enjoy :)
-
