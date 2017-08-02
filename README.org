@@ -29,12 +29,12 @@ A
    7) Check the =Allow in incognito= checkbox for metaType if you're into that.
    8) Scroll to the bottom and click =Keyboard shortcuts=.
    9) Set a shortcut for =Activate the extension= under =metaType= (I use =Ctrl + Shift + Y= ) and click =OK=.
-   10) Enjoy B)
+   10) Enjoy :)
 
 ** How to metaType:
 
    1) Press your shortcut key combination (for me it is =Ctrl + Shift + Y= ).
    2) Type or paste any text that you want to meta-ize and the press =Enter= .
    3) Hit =Ctrl + v= into any textfield.
-   4) Enjoy B)
+   4) Enjoy :)
 
