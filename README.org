@@ -20,11 +20,11 @@ A
 
 *** Normal Typing:
 
-[[file:howto.gif][This is a normal example of using metaType by simply typing.]]
+[[file:howto.gif]]
 
 *** Paste from clipboard:
 
-[[file:howto2.gif][This is an example of how to use metaType by pasting from the clipboard.]]
+[[file:howto2.gif]]
 
 ** How to install:
 
